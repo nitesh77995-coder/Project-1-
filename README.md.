@@ -1,0 +1,13 @@
+
+# Smooth Player 🎵
+
+A simple music and video player for your browser.
+
+## Features
+- Play audio and video files from your device
+- Play media from a direct URL
+- Built-in playback controls
+- Mobile-friendly design
+
+## How to use
+Open `index.html` in your browser, choose a media file, and press Play.
